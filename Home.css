@@ -242,6 +242,7 @@ body {
   width: 100%;
   max-height: 500px;
   object-fit: cover;
+  margin-bottom: 20px;
 }
 
 .popular-courses {
